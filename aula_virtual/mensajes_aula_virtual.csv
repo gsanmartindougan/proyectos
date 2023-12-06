@@ -1,0 +1,17 @@
+id_user_origen,id_user_destino,leido,contenido,hora
+123456,234567,false,"¡Hola Alice! ¿Cómo estás?",2023-01-01 12:00:00
+234567,123456,false,"¡Hola John! Estoy bien, ¿y tú?",2023-01-01 12:05:00
+345678,456789,true,"Hola Linda, necesito tu ayuda con la tarea.",2023-01-02 15:30:00
+456789,345678,false,"¡Claro Robert! Estoy disponible para ayudarte.",2023-01-02 16:00:00
+567890,678901,false,"Paul, ¿puedes revisar este código para mí?",2023-01-03 10:00:00
+678901,567890,false,"¡Por supuesto Michael! En un momento lo reviso.",2023-01-03 10:15:00
+789012,890123,false,"Brenda, ¿quieres estudiar juntas para el examen?",2023-01-04 18:00:00
+890123,789012,false,"¡Sí William! Vamos a la biblioteca a las 6 PM.",2023-01-04 18:15:00
+901234,012345,false,"Grace, necesito tu opinión sobre este proyecto.",2023-01-05 14:45:00
+012345,901234,false,"¡Por supuesto James! ¿En qué puedo ayudarte?",2023-01-05 15:00:00
+123456,234567,true,"Gracias por tu ayuda, Alice. ¿Podemos discutir más tarde?",2023-01-06 08:30:00
+234567,123456,true,"Por supuesto, John. Estoy disponible a las 2 PM.",2023-01-06 09:00:00
+345678,456789,false,"Linda, ¿puedes revisar los cambios en el documento?",2023-01-07 16:45:00
+456789,345678,false,"¡Lo siento Robert! Revisaré los cambios ahora mismo.",2023-01-07 17:00:00
+567890,678901,false,"Paul, tengo una pregunta sobre el último proyecto.",2023-01-08 11:30:00
+678901,567890,false,"¡Por supuesto Michael! Estoy aquí para ayudarte.",2023-01-08 11:45:00

@@ -1,0 +1,11 @@
+id_usuario,email,password,nombre,apellidos,perfil
+123456,jdoe@example.com,32250170a0dca92d53ec9624f336ca24,John,Doe,1
+234567,asmith@example.com,73a054cc528f91ca1bbdda3589b6a22d,Alice,Smith,2
+345678,rjones@example.com,ba1b5d9d26dd50164b5fb53a948e5cdf,Robert,Jones,1
+456789,lwilson@example.com,e38561d99e538eb7d936acb92bd847b0,Linda,Wilson,2
+567890,mlee@example.com,1dac2d5e70b56800ba9cdf6e877d519b,Michael,Lee,1
+678901,phillips@example.com,73a054cc528f91ca1bbdda3589b6a22d,Paul,Phillips,2
+789012,brodriguez@example.com,ba1b5d9d26dd50164b5fb53a948e5cdf,Brenda,Rodriguez,1
+890123,wwilliams@example.com,e38561d99e538eb7d936acb92bd847b0,William,Williams,2
+901234,gsmith@example.com,32250170a0dca92d53ec9624f336ca24,Grace,Smith,1
+012345,jmiller@example.com,1dac2d5e70b56800ba9cdf6e877d519b,James,Miller,2
